@@ -18,4 +18,4 @@ This project implements and evaluates two classical subspace projection methods 
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/kniza23/face-recognition-pca-lda.git](https://github.com/kniza23/face-recognition-pca-lda.git)
+git clone https://github.com/kniza23/face-recognition-pca-lda.git
